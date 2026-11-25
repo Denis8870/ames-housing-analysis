@@ -3,6 +3,8 @@
 Курсова робота з дисципліни «Мови програмування для аналізу даних»
 (Національний університет «Полтавська політехніка імені Юрія Кондратюка»).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis8870/ames-housing-analysis/blob/main/notebooks/analysis.ipynb)
+
 ## Мета
 Визначити, які характеристики будинків і умови продажу формують ціну житла в м. Еймс (штат Айова, США) у 2006–2010 роках.
 
